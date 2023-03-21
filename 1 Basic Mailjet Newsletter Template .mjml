@@ -1,0 +1,198 @@
+<mjml background-size="undefined" owa="desktop" version="4.10.1">
+  <mj-head background-size="undefined">
+    <mj-preview background-size="undefined"></mj-preview>
+  </mj-head>
+  <mj-body background-color="#F4F4F4" background-size="undefined" color="#55575d" font-family="Arial, sans-serif">
+    <mj-section background-repeat="repeat" background-size="auto" border="1px solid #e6e6e6" padding-bottom="5px" padding-left="0px" padding-right="0px" padding-top="5px" padding="5px 0px 5px 0px" text-align="center" vertical-align="top">
+      <mj-column background-size="undefined">
+        <mj-text align="left" background-size="undefined" color="#000000" font-family="Arial, sans-serif" font-size="13px" letter-spacing="normal" padding-bottom="0px" padding-left="30px" padding-right="30px" padding-top="0px" padding="0px 30px 0px 30px">
+          <p class="text-build-content" style="text-align: center; margin: 10px 0; margin-top: 10px; margin-bottom: 10px;" data-testid="z33hz0T8D-CkK4UQtlKdP"><span style="color:#55575d;font-family:Arial, Helvetica, sans-serif;font-size:13px;">View online version</span></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-left="30px" padding-right="30px" padding="20px 30px 20px 30px" text-align="center" vertical-align="top">
+      <mj-group background-size="undefined" vertical-align="top">
+        <mj-column background-size="undefined">
+          <mj-image align="left" alt="" background-size="undefined" border="none" height="auto" href="http://www.example.com" padding-bottom="5px" padding-left="20px" padding-right="20px" padding-top="5px" padding="5px 20px 5px 20px" src="https://0n2pp.mjt.lu/tplimg/0n2pp/b/lkinm/6lj6n.png" target="_blank" title="" width="100px"></mj-image>
+        </mj-column>
+        <mj-column background-size="undefined">
+          <mj-text align="left" background-size="undefined" color="#000000" font-family="Arial, sans-serif" font-size="15px" letter-spacing="normal" padding-bottom="0px" padding-left="10px" padding-right="15px" padding-top="20px" padding="20px 15px 0px 10px">
+            <p class="text-build-content" style="line-height: 30px; text-align: right; margin: 10px 0; margin-top: 10px; margin-bottom: 10px;" data-testid="fPRS8qDtx6o_g1FyGuSEQ"><span style="color:#55575d;font-family:Arial, Helvetica, sans-serif;font-size:15px;"><b>#1 | March 2023</b></span></p>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="5px" padding-left="0px" padding-right="0px" padding-top="5px" padding="5px 0px 5px 0px" text-align="center" vertical-align="top">
+      <mj-column background-size="undefined">
+        <mj-divider background-size="undefined" border-color="#E6E6E6" border-style="solid" border-width="2px" padding-bottom="10px" padding-left="0px" padding-right="0px" padding-top="5px" padding="5px 0px 10px 0px" width="100%"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="6px" padding-left="30px" padding-right="30px" padding-top="6px" padding="6px 30px 6px 30px" text-align="center" vertical-align="top">
+      <mj-column background-size="undefined">
+        <mj-text align="left" background-size="undefined" color="#000000" font-family="Arial, sans-serif" font-size="13px" letter-spacing="normal" padding-bottom="0px" padding-left="25px" padding-right="25px" padding-top="0px" padding="0px 25px 0px 25px">
+          <p class="text-build-content" style="text-align: center; margin: 10px 0; margin-top: 10px; margin-bottom: 10px;" data-testid="4E_IYnit0VJ62QS9EhIB9"><span style="color:#55575d;font-family:Arial, Helvetica, sans-serif;font-size:13px;"><b>WELCOME TO OUR</b></span></p>
+        </mj-text>
+        <mj-text align="left" background-size="undefined" color="#000000" font-family="Arial, sans-serif" font-size="40px" letter-spacing="normal" padding-bottom="0px" padding-left="25px" padding-right="25px" padding-top="0px" padding="0px 25px 0px 25px">
+          <h2 class="text-build-content" style="line-height:33px;text-align:center;; margin-top: 10px; margin-bottom: 10px" data-testid="7cJYdeUR5NX-5ttZCdN-N"><span style="color:#55575d;font-family:Arial, Helvetica, sans-serif;font-size:40px;"><b>Weekly Newsletter</b></span></h2>
+        </mj-text>
+        <mj-text align="left" background-size="undefined" color="#000000" font-family="Arial, sans-serif" font-size="13px" letter-spacing="normal" padding-bottom="0px" padding-left="25px" padding-right="25px" padding-top="0px" padding="0px 25px 0px 25px">
+          <p class="text-build-content" style="line-height: 16px; text-align: center; margin: 10px 0; margin-top: 10px; margin-bottom: 10px;" data-testid="gtb6Gtw-jgHNUQM_ky9hW"><span style="color:#55575d;font-family:Arial, Helvetica, sans-serif;font-size:13px;"><i>we're so glad you're here</i></span></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="5px" padding-left="0px" padding-right="0px" padding-top="5px" padding="5px 0px 5px 0px" text-align="center" vertical-align="top">
+      <mj-column background-size="undefined">
+        <mj-divider background-size="undefined" border-color="#E6E6E6" border-style="solid" border-width="2px" container-background-color="#ffffff" padding-left="0px" padding-right="0px" padding="10px 0px 10px 0px" width="100%"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-left="30px" padding-right="30px" padding="20px 30px 20px 30px" text-align="center" vertical-align="top">
+      <mj-column background-size="undefined">
+        <mj-image align="center" alt="" background-size="undefined" border="none" height="auto" href="" padding="10px 25px" src="https://0n2pp.mjt.lu/tplimg/0n2pp/b/lk9ol/6mw99.png" target="_blank" title="" width="468px"></mj-image>
+      </mj-column>
+      <mj-column background-size="undefined">
+        <mj-text align="left" background-size="undefined" color="#000000" font-family="Arial, sans-serif" font-size="25px" letter-spacing="normal" padding-bottom="0px" padding-left="25px" padding-right="25px" padding-top="0px" padding="0px 25px 0px 25px">
+          <h3 class="text-build-content" data-testid="jkDoQe0uonPw-OzQ5LwWE" style="margin-top: 10px; margin-bottom: 10px"><span style="color:#55575d;font-family:Arial, Helvetica, sans-serif;font-size:25px;"><b>A Studio Update</b></span></h3>
+        </mj-text>
+        <mj-text align="left" background-size="undefined" color="#000000" font-family="Arial, sans-serif" font-size="10px" letter-spacing="normal" padding-bottom="0px" padding-top="0px" padding="10px 25px">
+          <p class="text-build-content" data-testid="lVapL6gwT_qduhKC04zkW" style="margin: 10px 0; margin-top: 10px; margin-bottom: 10px;"><span style="color:#55575d;font-family:Arial, Helvetica, sans-serif;font-size:10px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet volutpat dui, sed euismod neque. Donec a convallis ex. Suspendisse ut consectetur lectus. Quisque vel aliquet nibh. Aenean malesuada tincidunt dignissim. Curabitur in metus magna.</span></p>
+        </mj-text>
+        <mj-text align="left" background-size="undefined" color="#000000" font-family="Arial, sans-serif" font-size="11px" letter-spacing="normal" padding-bottom="0px" padding-top="0px" padding="10px 25px">
+          <p class="text-build-content" data-testid="X7G4WsBoWzY_zS3EYfVUQ" style="margin: 10px 0; margin-top: 10px; margin-bottom: 10px;"><span style="color:#55575d;font-family:Arial, Helvetica, sans-serif;font-size:11px;">Pellentesque enim tortor, eleifend quis pellentesque eget, ultrices eu velit. Sed elementum tortor et porttitor dignissim. Cras id odio ut lectus dignissim pretium. Vivamus a laoreet orci. Nunc volutpat diam quis blandit ullamcorper.</span></p>
+        </mj-text>
+        <mj-text align="left" background-size="undefined" color="#000000" font-family="Arial, sans-serif" font-size="11px" letter-spacing="normal" padding-bottom="0px" padding-top="0px" padding="10px 25px">
+          <p class="text-build-content" data-testid="6G-PQHG48PlYfWj-QRCFl" style="margin: 10px 0; margin-top: 10px; margin-bottom: 10px;"><span style="color:#55575d;font-family:Arial, Helvetica, sans-serif;font-size:11px;">Sed bibendum quam gravida nulla dapibus vehicula. Aliquam mollis nisi tellus, in luctus risus feugiat at. Aliquam erat volutpat.</span></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="5px" padding-left="0px" padding-right="0px" padding-top="5px" padding="5px 0px 5px 0px" text-align="center" vertical-align="top">
+      <mj-column background-size="undefined">
+        <mj-divider background-size="undefined" border-color="#E6E6E6" border-style="solid" border-width="2px" container-background-color="#ffffff" padding-bottom="10px" padding-left="0px" padding-right="0px" padding-top="10px" padding="10px 0px 10px 0px" width="100%"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="10px" padding-left="30px" padding-right="30px" padding-top="10px" padding="10px 30px 10px 30px" text-align="center" vertical-align="top">
+      <mj-column background-size="undefined" width="75%">
+        <mj-text align="left" background-size="undefined" color="#000000" font-family="Arial, sans-serif" font-size="25px" letter-spacing="normal" padding-bottom="0px" padding-left="20px" padding-right="10px" padding-top="0px" padding="0px 10px 0px 20px">
+          <h3 class="text-build-content" data-testid="TfVELsSI87ID5fUxxGDsP" style="margin-top: 10px; margin-bottom: 10px"><span style="color:#55575d;font-family:Arial, Helvetica, sans-serif;font-size:25px;"><b>New Team Member Alert</b></span></h3>
+        </mj-text>
+        <mj-text align="left" background-size="undefined" color="#000000" font-family="Arial, sans-serif" font-size="11px" letter-spacing="normal" padding-bottom="0px" padding-left="20px" padding-right="20px" padding-top="0px" padding="0px 20px 0px 20px">
+          <p class="text-build-content" data-testid="zXMq82_wppkurTVKNOxBo" style="margin: 10px 0; margin-top: 10px; margin-bottom: 10px;"><span style="color:#55575d;font-family:Arial, Helvetica, sans-serif;font-size:11px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet volutpat dui, sed euismod neque. Donec a convallis ex. Suspendisse ut consectetur lectus. Quisque vel aliquet nibh. Aenean malesuada tincidunt dignissim.</span></p>
+        </mj-text>
+      </mj-column>
+      <mj-column background-size="undefined" width="25%">
+        <mj-image align="center" alt="" background-size="undefined" border="none" height="auto" href="http://www.example.com" padding-bottom="0px" padding-left="0px" padding-right="20px" padding-top="10px" padding="10px 20px 0px 0px" src="https://0n2pp.mjt.lu/tplimg/0n2pp/b/lkinm/6ljv1.png" target="_blank" title="" width="329px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="5px" padding-left="0px" padding-right="0px" padding-top="5px" padding="5px 0px 5px 0px" text-align="center" vertical-align="top">
+      <mj-column background-size="undefined">
+        <mj-divider background-size="undefined" border-color="#E6E6E6" border-style="solid" border-width="2px" padding-bottom="10px" padding-left="0px" padding-right="0px" padding-top="10px" padding="10px 0px 10px 0px" width="100%"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="20px" padding="20px 30px 20px 30px" text-align="center" vertical-align="top">
+      <mj-column background-size="undefined">
+        <mj-image align="center" alt="" background-size="undefined" border="none" height="auto" href="http://www.example.com" padding-left="25px" padding-right="25px" padding="10px 25px 10px 25px" src="https://0n2pp.mjt.lu/tplimg/0n2pp/b/lkinm/6ljv2.png" target="_blank" title="" width="1173px"></mj-image>
+        <mj-text align="left" background-size="undefined" color="#000000" font-family="Arial, sans-serif" font-size="25px" letter-spacing="normal" padding-bottom="0px" padding-top="0px" padding="10px 25px">
+          <h3 class="text-build-content" style="text-align:center;; margin-top: 10px; margin-bottom: 10px" data-testid="6nxSo9fK8BWpb9C_PvU-k"><span style="color:#55575d;font-family:Arial, Helvetica, sans-serif;font-size:25px;"><b>Our Latest Client Project</b></span></h3>
+        </mj-text>
+        <mj-text align="left" background-size="undefined" color="#000000" font-family="Arial, sans-serif" font-size="13px" letter-spacing="normal" padding-bottom="0px" padding-top="0px" padding="10px 25px">
+          <p class="text-build-content" style="text-align: center; margin: 10px 0; margin-top: 10px; margin-bottom: 10px;" data-testid="nIru9U9aIhHzTycsVjhIn"><span style="color:#55575d;font-family:Arial, Helvetica, sans-serif;font-size:13px;"><b>WE ABSOLUTELY LOVED WORKING WITH THIS CLIENT</b></span></p>
+        </mj-text>
+        <mj-text align="left" background-size="undefined" color="#000000" font-family="Arial, sans-serif" font-size="13px" letter-spacing="normal" padding-bottom="0px" padding-top="0px" padding="10px 25px">
+          <p class="text-build-content" style="text-align: center; margin: 10px 0; margin-top: 10px; margin-bottom: 10px;" data-testid="efY5a4rAKqL7SrlI3Olcm"><span style="color:#55575d;font-family:Arial, Helvetica, sans-serif;font-size:13px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet volutpat dui, sed euismod neque. Donec a convallis ex. Suspendisse ut consectetur lectus. Quisque vel aliquet nibh. Aenean malesuada tincidunt dignissim.</span></p>
+        </mj-text>
+        <mj-button align="center" background-color="#414141" background-size="undefined" border-radius="3px" color="#ffffff" container-background-color="#ffffff" font-family="Arial, sans-serif" font-size="13px" font-weight="normal" inner-padding="10px 25px 10px 25px" padding-left="25px" padding-right="25px" padding="10px 25px 10px 25px" text-decoration="none" text-transform="none" vertical-align="middle">
+          <span style="color:#ffffff;font-size:14px;">SEE FULL CASE STUDY</span>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="5px" padding-left="0px" padding-right="0px" padding-top="5px" padding="5px 0px 5px 0px">
+      <mj-column background-size="undefined">
+        <mj-divider background-size="undefined" border-color="#E6E6E6" border-style="solid" border-width="2px" container-background-color="#ffffff" padding-left="0px" padding-right="0px" padding="10px 0px 10px 0px" width="100%"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-left="30px" padding-right="30px" padding="20px 30px 20px 30px" text-align="center" vertical-align="top">
+      <mj-column background-size="undefined">
+        <mj-image align="center" alt="" background-size="undefined" border="none" height="auto" href="http://www.example.com" padding="10px 25px" src="https://0n2pp.mjt.lu/tplimg/0n2pp/b/lkinm/6ljv8.png" target="_blank" title="" width="660px"></mj-image>
+        <mj-text align="left" background-size="undefined" color="#000000" font-family="Arial, sans-serif" font-size="25px" letter-spacing="normal" padding-bottom="0px" padding-top="0px" padding="10px 25px">
+          <h3 class="text-build-content" style="text-align:center;; margin-top: 10px; margin-bottom: 10px" data-testid="B4uoANbIjgIPFcAliMm56"><span style="color:#55575d;font-family:Arial, Helvetica, sans-serif;font-size:25px;"><b>Coming Up</b></span></h3>
+        </mj-text>
+        <mj-text align="left" background-size="undefined" color="#000000" font-family="Arial, sans-serif" font-size="13px" letter-spacing="normal" padding-bottom="0px" padding-left="20px" padding-right="20px" padding-top="0px" padding="0px 20px 0px 20px">
+          <p class="text-build-content" style="text-align: center; margin: 10px 0; margin-top: 10px; margin-bottom: 10px;" data-testid="EdXP6_RLFfi07Cd8eJJw0"><span style="color:#55575d;font-family:Arial, Helvetica, sans-serif;font-size:13px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet volutpat dui, sed euismod neque.</span></p>
+        </mj-text>
+        <mj-button align="center" background-color="#414141" background-size="undefined" border-radius="3px" color="#ffffff" font-family="Arial, sans-serif" font-size="13px" font-weight="normal" inner-padding="10px 25px 10px 25px" padding-left="25px" padding-right="25px" padding="10px 25px 10px 25px" text-decoration="none" text-transform="none" vertical-align="middle">
+          <span style="font-size:14px;">Find out more</span>
+        </mj-button>
+      </mj-column>
+      <mj-column background-size="undefined">
+        <mj-image align="center" alt="" background-size="undefined" border="none" height="auto" href="http://www.example.com" padding="10px 25px" src="https://0n2pp.mjt.lu/tplimg/0n2pp/b/lkinm/6ljvy.png" target="_blank" title="" width="699px"></mj-image>
+        <mj-text align="left" background-size="undefined" color="#000000" font-family="Arial, sans-serif" font-size="25px" letter-spacing="normal" padding-bottom="0px" padding-top="0px" padding="10px 25px">
+          <h3 class="text-build-content" style="text-align:center;; margin-top: 10px; margin-bottom: 10px" data-testid="y9UfZDE2Jh2TwWfOEuuq6"><span style="color:#55575d;font-family:Arial, Helvetica, sans-serif;font-size:25px;"><b>Free Resources</b></span></h3>
+        </mj-text>
+        <mj-text align="left" background-size="undefined" color="#000000" container-background-color="#ffffff" font-family="Arial, sans-serif" font-size="13px" letter-spacing="normal" padding-bottom="0px" padding-left="20px" padding-right="20px" padding-top="0px" padding="0px 20px 0px 20px">
+          <p class="text-build-content" style="text-align: center; margin: 10px 0; margin-top: 10px; margin-bottom: 10px;" data-testid="k4roa_DtQwQta8PE1pWav"><span style="color:#55575d;font-family:Arial, Helvetica, sans-serif;font-size:13px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet volutpat dui, sed euismod neque</span></p>
+        </mj-text>
+        <mj-button align="center" background-color="#414141" background-size="undefined" border-radius="3px" border="none" color="#ffffff" font-family="Arial, sans-serif" font-size="13px" font-weight="normal" inner-padding="10px 25px" padding="10px 25px" text-decoration="none" text-transform="none" vertical-align="middle">
+          <span style="font-size:14px;">Instant download</span>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="5px" padding-left="0px" padding-right="0px" padding-top="5px" padding="5px 0px 5px 0px" text-align="center" vertical-align="top">
+      <mj-column background-size="undefined">
+        <mj-divider background-size="undefined" border-color="#E6E6E6" border-style="solid" border-width="2px" container-background-color="#ffffff" padding-left="0px" padding-right="0px" padding="10px 0px 10px 0px" width="100%"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-left="30px" padding-right="30px" padding="20px 30px 20px 30px" text-align="center" vertical-align="top">
+      <mj-column background-size="undefined" width="66%">
+        <mj-text align="left" background-size="undefined" color="#000000" font-family="Arial, sans-serif" font-size="25px" letter-spacing="normal" padding-bottom="0px" padding-left="25px" padding-right="25px" padding-top="0px" padding="0px 25px 0px 25px">
+          <h3 class="text-build-content" data-testid="PCubtl35F-SgIqyKdzY9-" style="margin-top: 10px; margin-bottom: 10px"><span style="color:#55575d;font-family:Arial, Helvetica, sans-serif;font-size:25px;"><b>An Industry First</b></span></h3>
+        </mj-text>
+        <mj-text align="left" background-size="undefined" color="#000000" font-family="Arial, sans-serif" font-size="12px" letter-spacing="normal" padding-bottom="0px" padding-top="0px" padding="10px 25px">
+          <p class="text-build-content" data-testid="fBmo9hYDgUmXU-sDOYDn6" style="margin: 10px 0; margin-top: 10px; margin-bottom: 10px;"><span style="color:#55575d;font-family:Arial, Helvetica, sans-serif;font-size:12px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet volutpat dui, sed euismod neque. Donec a convallis ex. Suspendisse ut consectetur lectus. Quisque vel aliquet nibh. Aenean malesuada tincidunt dignissim.</span></p>
+        </mj-text>
+        <mj-text align="left" background-size="undefined" color="#000000" font-family="Arial, sans-serif" font-size="12px" letter-spacing="normal" padding-bottom="0px" padding-top="0px" padding="10px 25px">
+          <p class="text-build-content" data-testid="LZjsAVYf5yJmqIE7WVWKa" style="margin: 10px 0; margin-top: 10px; margin-bottom: 10px;"><span style="color:#55575d;font-family:Arial, Helvetica, sans-serif;font-size:12px;">Curabitur in metus magna. Pellentesque enim tortor, eleifend quis pellentesque eget, ultrices eu velit. Sed elementum tortor et porttitor dignissim. Cras id odio ut lectus dignissim pretium. Vivamus a laoreet orci. Nunc volutpat diam quis blandit ullamcorper</span></p>
+        </mj-text>
+      </mj-column>
+      <mj-column background-size="undefined" width="33%">
+        <mj-image align="center" alt="" background-size="undefined" border="none" height="auto" href="" padding="10px 25px" src="https://0n2pp.mjt.lu/tplimg/0n2pp/b/lkinm/6li9n.jpeg" target="_blank" title="" width="1850px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" border="1px solid #55575d" padding-left="30px" padding-right="30px" padding="20px 30px 20px 30px" text-align="center" vertical-align="top">
+      <mj-column background-size="undefined">
+        <mj-text align="left" background-size="undefined" color="#000000" container-background-color="transparent" font-family="Arial, sans-serif" font-size="25px" letter-spacing="normal" padding-bottom="0px" padding-left="25px" padding-right="25px" padding-top="0px" padding="0px 25px 0px 25px">
+          <h3 class="text-build-content" style="text-align:center;; margin-top: 10px; margin-bottom: 10px" data-testid="QU3ZkKdhfcY2JhHZ4uUH6"><span style="color:#55575d;font-family:Arial;font-size:25px;"><b>WORK WITH US TODAY</b></span></h3>
+        </mj-text>
+        <mj-text align="left" background-size="undefined" color="#000000" font-family="Arial, sans-serif" font-size="15px" letter-spacing="normal" padding-bottom="0px" padding-top="0px" padding="10px 25px">
+          <p class="text-build-content" style="text-align: center; margin: 10px 0; margin-top: 10px; margin-bottom: 10px;" data-testid="EmjJmG440NBzBN6KYGYyc"><span style="color:#55575d;font-family:Arial;font-size:15px;"><b>Have any questions about working with us?</b></span></p>
+        </mj-text>
+        <mj-text align="left" background-size="undefined" color="#000000" font-family="Arial, sans-serif" font-size="13px" letter-spacing="normal" padding-bottom="0px" padding-top="0px" padding="10px 25px">
+          <p class="text-build-content" style="text-align: center; margin: 10px 0; margin-top: 10px; margin-bottom: 10px;" data-testid="KEbppMPDPJ0MBnn55aLF6"><span style="font-family:Arial;font-size:13px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet volutpat dui, sed euismod neque.</span></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="8px" padding-left="0px" padding-right="0px" padding="20px 0px 8px 0px" text-align="center" vertical-align="top">
+      <mj-column background-size="undefined">
+        <mj-social align="center" background-size="undefined" font-family="Ubuntu, Helvetica, Arial, sans-serif" font-size="13px" icon-size="20px" line-height="22px" mode="horizontal" padding="10px 25px" text-decoration="none" text-mode="false">
+          <mj-social-element background-color="#3B5998" background-size="undefined" href="[[SHORT_PERMALINK]]" name="facebook" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png"></mj-social-element>
+          <mj-social-element background-color="#1DA1F2" background-size="undefined" href="[[SHORT_PERMALINK]]" name="twitter" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png"></mj-social-element>
+          <mj-social-element background-color="#405DE6" background-size="undefined" href="[[SHORT_PERMALINK]]" name="instagram-noshare" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/instagram.png"></mj-social-element>
+        </mj-social>
+        <mj-text align="left" background-size="undefined" color="#000000" font-family="Arial, sans-serif" font-size="13px" letter-spacing="normal" padding-bottom="0px" padding-top="0px" padding="10px 25px">
+          <p class="text-build-content" style="text-align: center; margin: 10px 0; margin-top: 10px; margin-bottom: 10px;" data-testid="NgW3LmlJBiMiCvGnNi_EI"><span style="font-family:Arial;">email@email.com</span></p>
+        </mj-text>
+        <mj-text align="left" background-size="undefined" color="#000000" font-family="Arial, sans-serif" font-size="16px" letter-spacing="normal" padding-bottom="0px" padding-top="0px" padding="10px 25px">
+          <p class="text-build-content" style="text-align: center; margin: 10px 0; margin-top: 10px; margin-bottom: 10px;" data-testid="4tzfuA-Y2Tz5QbG9pzBqy"><span style="font-family:Arial;font-size:16px;"><b>www.website.com</b></span></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-left="0px" padding-right="0px" padding="20px 0px 20px 0px" text-align="center" vertical-align="top">
+      <mj-column background-size="undefined">
+        <mj-text align="center" background-size="undefined" font-size="11px" line-height="22px">
+          <p class="text-build-content" style="text-align: center; margin: 10px 0; margin-top: 10px; margin-bottom: 10px;" data-testid="_J4Qs6WiC2DFK02oH3dY4">This e-mail has been sent to email@email.com, <a class="link-build-content" style="color:inherit;" target="_blank" href="[[UNSUB_LINK_EN]]">click here to unsubscribe</a>.</p>
+        </mj-text>
+        <mj-text align="center" background-size="undefined" font-size="11px" line-height="22px">
+          <p class="text-build-content" style="text-align: center; margin: 10px 0; margin-top: 10px; margin-bottom: 10px;" data-testid="0uD0N8zM4OTswwzo06XMG">USA</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
